@@ -1,0 +1,969 @@
+Country Name,Country Code,Indicator Name,Indicator Code,2000,2005,2010,2015
+Arab World,ARB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,77.2456817626953,82.4894866943359,85.2119979858398,
+Arab World,ARB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,66.0060653686523,77.3645858764648,77.3645858764648,
+Arab World,ARB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,54.9934043884277,69.2272033691406,69.2272033691406,
+Arab World,ARB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,76.3177032470703,84.7327270507813,84.7327270507813,
+East Asia & Pacific,EAS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.9568099975586,95.181770324707,96.1660690307617,
+East Asia & Pacific,EAS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,91.6186904907227,95.1082229614258,95.1082229614258,
+East Asia & Pacific,EAS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,88.1017532348633,93.0936050415039,93.0936050415039,
+East Asia & Pacific,EAS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,95.1045303344727,97.1226043701172,97.1226043701172,
+East Asia & Pacific (excluding high income),EAP,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.6755065917969,94.8850326538086,95.9232025146484,
+East Asia & Pacific (excluding high income),EAP,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,90.7730331420898,94.7516708374023,94.7516708374023,
+East Asia & Pacific (excluding high income),EAP,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,86.8535003662109,92.5697937011719,92.5697937011719,
+East Asia & Pacific (excluding high income),EAP,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,94.6246490478516,96.9153518676758,96.9153518676758,
+Euro area,EMU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.3522720336914,98.7482986450195,99.1178588867188,
+Euro area,EMU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Euro area,EMU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Euro area,EMU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Europe & Central Asia,ECS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.6480865478516,96.7368316650391,97.2747192382813,
+Europe & Central Asia,ECS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,98.1458435058594,98.9975891113281,98.9975891113281,
+Europe & Central Asia,ECS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,97.3259963989258,98.616455078125,98.616455078125,
+Europe & Central Asia,ECS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.014533996582,99.3948669433594,99.3948669433594,
+Europe & Central Asia (excluding high income),ECA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,93.925666809082,94.8106231689453,95.1925735473633,
+Europe & Central Asia (excluding high income),ECA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,97.2184066772461,98.7996368408203,98.7996368408203,
+Europe & Central Asia (excluding high income),ECA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,95.7628784179688,98.1974182128906,98.1974182128906,
+Europe & Central Asia (excluding high income),ECA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,98.8118591308594,99.4507293701172,99.4507293701172,
+European Union,EUU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.6010589599609,98.2317810058594,98.7255935668945,
+European Union,EUU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+European Union,EUU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+European Union,EUU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Heavily indebted poor countries (HIPC),HPC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,54.0877990722656,68.3468170166016,76.0655136108398,
+Heavily indebted poor countries (HIPC),HPC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,52.2210731506348,57.8371658325195,57.8371658325195,
+Heavily indebted poor countries (HIPC),HPC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,42.2104225158691,49.3493499755859,49.3493499755859,
+Heavily indebted poor countries (HIPC),HPC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,63.1118621826172,66.7586288452148,66.7586288452148,
+High income,HIC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.1162567138672,96.3792266845703,96.9592208862305,97.1638717651367
+High income,HIC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+High income,HIC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+High income,HIC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Latin America & Caribbean,LCN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.6602478027344,95.1587600708008,95.6300201416016,
+Latin America & Caribbean,LCN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,89.736442565918,92.6243133544922,92.6243133544922,
+Latin America & Caribbean,LCN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,88.9609146118164,92.1643218994141,92.1643218994141,
+Latin America & Caribbean,LCN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,90.5802688598633,93.1203155517578,93.1203155517578,
+Latin America & Caribbean (excluding high income),LAC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.6891403198242,95.1215591430664,95.6606674194336,
+Latin America & Caribbean (excluding high income),LAC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,89.4503936767578,92.4479904174805,92.4479904174805,
+Latin America & Caribbean (excluding high income),LAC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,88.6293029785156,91.9613876342773,91.9613876342773,
+Latin America & Caribbean (excluding high income),LAC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,90.3425827026367,92.9717330932617,92.9717330932617,
+Least developed countries: UN classification,LDC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,60.22412109375,73.4141082763672,79.0647811889648,
+Least developed countries: UN classification,LDC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,53.4133987426758,60.5682334899902,60.5682334899902,
+Least developed countries: UN classification,LDC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,44.1201858520508,53.1079559326172,53.1079559326172,
+Least developed countries: UN classification,LDC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,63.2664070129395,68.3307113647461,68.3307113647461,
+Low & middle income,LMY,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,83.3934326171875,87.7802429199219,89.7946701049805,
+Low & middle income,LMY,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,77.7821350097656,82.3050842285156,82.3050842285156,
+Low & middle income,LMY,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,71.5398864746094,77.5996475219727,77.5996475219727,
+Low & middle income,LMY,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,84.0606231689453,87.0526885986328,87.0526885986328,
+Low income,LIC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,54.3902816772461,69.3465576171875,77.5309982299805,80.9454727172852
+Low income,LIC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,52.6949691772461,56.5740547180176,56.5740585327148,
+Low income,LIC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,42.9169807434082,48.0405426025391,48.0405387878417,
+Low income,LIC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,63.1827812194824,65.6107711791992,65.6107711791992,
+Lower middle income,LMC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,81.2648010253906,87.0896072387695,90.0078735351563,90.2624969482422
+Lower middle income,LMC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,67.3315963745117,73.9100799560547,73.9100799560547,
+Lower middle income,LMC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,58.2579307556152,66.8440856933594,66.8440780639648,
+Lower middle income,LMC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,76.3044891357422,80.9263763427734,80.9263763427734,
+Middle East & North Africa,MEA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,84.5818634033203,91.694450378418,95.0561294555664,
+Middle East & North Africa,MEA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,70.4031524658203,80.7500152587891,80.7500152587891,
+Middle East & North Africa,MEA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,60.6075172424316,73.6813278198242,73.6813278198242,
+Middle East & North Africa,MEA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,79.6291122436523,87.2885437011719,87.2885437011719,
+Middle East & North Africa (excluding high income),MNA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,85.2658081054688,92.6737899780273,95.4378280639648,
+Middle East & North Africa (excluding high income),MNA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,68.0235748291016,78.4388122558594,78.4388122558594,
+Middle East & North Africa (excluding high income),MNA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,57.9519424438477,71.1741943359375,71.1741943359375,
+Middle East & North Africa (excluding high income),MNA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,77.948112487793,85.5463562011719,85.5463562011719,
+Middle income,MIC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,87.2571334838867,90.7570495605469,92.222801208496,92.3483123779297
+Middle income,MIC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,79.7007369995117,84.3886795043945,84.3886795043945,
+Middle income,MIC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,73.7823791503906,80.0481872558594,80.0481872558594,
+Middle income,MIC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,85.6185836791992,88.749412536621,88.749412536621,
+North America,NAC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.8275909423828,95.4057693481445,95.0980224609375,
+North America,NAC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+North America,NAC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+North America,NAC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+OECD members,OED,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.3331909179688,97.2041625976563,97.1194229125977,
+OECD members,OED,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+OECD members,OED,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+OECD members,OED,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+South Asia,SAS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,79.415641784668,89.147819519043,92.4785690307617,
+South Asia,SAS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,58.0854187011719,66.6911773681641,66.6911773681641,
+South Asia,SAS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,45.6534576416016,57.0041389465332,57.0041389465332,
+South Asia,SAS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,69.8258972167969,76.0219421386719,76.0219421386719,
+Sub-Saharan Africa,SSF,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,60.2315101623535,69.7988662719727,75.4619979858398,
+Sub-Saharan Africa,SSF,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,56.98193359375,60.8805465698242,60.8805465698242,
+Sub-Saharan Africa,SSF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,47.6012077331543,53.0099716186523,53.0099716186523,
+Sub-Saharan Africa,SSF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,67.2084045410156,69.2233047485352,69.2233047485352,
+Sub-Saharan Africa (excluding high income),SSA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,60.2286911010742,69.7971420288086,75.4607315063477,
+Sub-Saharan Africa (excluding high income),SSA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,56.9764060974121,60.8757553100586,60.8757553100586,
+Sub-Saharan Africa (excluding high income),SSA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,47.5940971374512,53.0041542053223,53.0041542053223,
+Sub-Saharan Africa (excluding high income),SSA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,67.2045745849609,69.2196884155273,69.2196884155273,
+Upper middle income,UMC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.6059875488281,95.8577117919922,95.7556610107422,95.7058792114258
+Upper middle income,UMC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,90.6573104858398,94.2689895629883,94.2689895629883,
+Upper middle income,UMC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,87.3636474609375,92.3570022583008,92.3570022583008,
+Upper middle income,UMC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,93.971580505371,96.2098083496094,96.2098083496094,
+World,WLD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,84.9904174804688,88.8357696533203,90.7195587158203,91.1550903320313
+World,WLD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,81.9029083251953,85.3133850097656,85.3157577514648,
+World,WLD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,76.9529037475585,81.4823913574219,81.486228942871,
+World,WLD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,86.9286880493164,89.2046661376953,89.2056884765625,
+Afghanistan,AFG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Afghanistan,AFG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Afghanistan,AFG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Afghanistan,AFG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Albania,ALB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.8898773193359,,91.0338668823242,
+Albania,ALB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Albania,ALB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Albania,ALB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Algeria,DZA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,90.5237197875977,95.5387573242188,98.6604766845703,98.8130264282227
+Algeria,DZA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Algeria,DZA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Algeria,DZA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+American Samoa,ASM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+American Samoa,ASM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+American Samoa,ASM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+American Samoa,ASM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Andorra,AND,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Andorra,AND,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,100.0
+Andorra,AND,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,100.0
+Andorra,AND,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,100.0
+Angola,AGO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,81.3394393920898,
+Angola,AGO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Angola,AGO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Angola,AGO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Antigua and Barbuda,ATG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,89.4789962768555,90.253303527832
+Antigua and Barbuda,ATG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Antigua and Barbuda,ATG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Antigua and Barbuda,ATG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Argentina,ARG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.548469543457,99.345832824707,99.0661087036133,
+Argentina,ARG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,98.09
+Argentina,ARG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,98.13
+Argentina,ARG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,98.04
+Armenia,ARM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,87.5530319213867,,96.423713684082
+Armenia,ARM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Armenia,ARM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Armenia,ARM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Aruba,ABW,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.2535934448242,97.9789199829102,98.9204635620117,
+Aruba,ABW,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,97.29125,,96.82264,
+Aruba,ABW,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,97.07136,,96.71978,
+Aruba,ABW,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,97.5374,,96.94053,
+Australia,AUS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.1244812011719,95.4895477294922,97.1056518554688,97.1604080200195
+Australia,AUS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Australia,AUS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Australia,AUS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Austria,AUT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Austria,AUT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Austria,AUT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Austria,AUT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Azerbaijan,AZE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,88.239616394043,83.9535369873047,84.7260513305664,94.2627487182617
+Azerbaijan,AZE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,99.77114,99.78806
+Azerbaijan,AZE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,99.69263,99.71714
+Azerbaijan,AZE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,99.85444,99.86263
+"Bahamas, The",BHS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,98.5798492431641,97.8058624267578,
+"Bahamas, The",BHS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Bahamas, The",BHS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Bahamas, The",BHS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Bahrain,BHR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.8886566162109,90.1977005004883,,97.9990997314453
+Bahrain,BHR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,94.55679,
+Bahrain,BHR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,91.61258,
+Bahrain,BHR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,96.14023,
+Bangladesh,BGD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,95.3730163574219,94.9320373535156,
+Bangladesh,BGD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Bangladesh,BGD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Bangladesh,BGD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Barbados,BRB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.5622329711914,90.2778396606445,95.0805206298828,
+Barbados,BRB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Barbados,BRB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Barbados,BRB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Belarus,BLR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,90.1567687988281,91.402458190918,95.6539688110352
+Belarus,BLR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Belarus,BLR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Belarus,BLR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Belgium,BEL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.1907119750977,96.6483688354492,98.7389602661133,99.2667007446289
+Belgium,BEL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Belgium,BEL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Belgium,BEL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Belize,BLZ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.3308868408203,95.072166442871,98.0161972045898,99.2194213867188
+Belize,BLZ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Belize,BLZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Belize,BLZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Benin,BEN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,81.7522964477539,94.120849609375,
+Benin,BEN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Benin,BEN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Benin,BEN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Bermuda,BMU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,97.5803604125977,,
+Bermuda,BMU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Bermuda,BMU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Bermuda,BMU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Bhutan,BTN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,59.1656799316406,72.9403610229492,88.4916229248047,
+Bhutan,BTN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,52.81469,,
+Bhutan,BTN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,38.68066,,
+Bhutan,BTN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,65.04778,,
+Bolivia,BOL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.0888824462891,96.9665374755859,95.5505905151367,89.8857421875
+Bolivia,BOL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,92.45508
+Bolivia,BOL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,88.58286
+Bolivia,BOL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,96.52275
+Bosnia and Herzegovina,BIH,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Bosnia and Herzegovina,BIH,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,96.6631,,,
+Bosnia and Herzegovina,BIH,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,94.35994,,,
+Bosnia and Herzegovina,BIH,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.03371,,,
+Botswana,BWA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,81.9193725585938,84.6825866699219,,
+Botswana,BWA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Botswana,BWA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Botswana,BWA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Brazil,BRA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,96.0799331665039,,94.773338317871
+Brazil,BRA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,86.36788,,90.37918,
+Brazil,BRA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,86.50005,,90.6817,
+Brazil,BRA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,86.22798,,90.05618,
+British Virgin Islands,VGB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+British Virgin Islands,VGB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+British Virgin Islands,VGB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+British Virgin Islands,VGB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Brunei Darussalam,BRN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Brunei Darussalam,BRN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Brunei Darussalam,BRN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Brunei Darussalam,BRN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Bulgaria,BGR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.904670715332,93.7879028320313,99.3304290771484,94.9369430541992
+Bulgaria,BGR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Bulgaria,BGR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Bulgaria,BGR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Burkina Faso,BFA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,36.7456588745117,45.9777412414551,60.0682106018066,69.6642303466797
+Burkina Faso,BFA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,23.55372,,
+Burkina Faso,BFA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,16.62224,,
+Burkina Faso,BFA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,31.44193,,
+Burundi,BDI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,40.6560592651367,56.4940414428711,91.5200271606445,94.6127319335938
+Burundi,BDI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,59.30362,,,
+Burundi,BDI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,52.23776,,,
+Burundi,BDI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,67.30693,,,
+Cabo Verde,CPV,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.6968002319335,92.7444381713867,95.2459487915039,97.2687225341797
+Cabo Verde,CPV,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,86.79029
+Cabo Verde,CPV,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,82.04222
+Cabo Verde,CPV,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,91.69144
+Cambodia,KHM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,92.3216705322266,,93.2808303833008,94.9251098632813
+Cambodia,KHM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Cambodia,KHM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Cambodia,KHM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Cameroon,CMR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,95.1098098754883
+Cameroon,CMR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,68.40916,,71.29051,
+Cameroon,CMR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,58.72176,,64.7995,
+Cameroon,CMR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,79.19452,,78.32769,
+Canada,CAN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.9220504760742,,,
+Canada,CAN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Canada,CAN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Canada,CAN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Cayman Islands,CYM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Cayman Islands,CYM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Cayman Islands,CYM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Cayman Islands,CYM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Central African Republic,CAF,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,48.4697303771973,69.691062927246,
+Central African Republic,CAF,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,50.64517,,36.75261,
+Central African Republic,CAF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,35.2909,,24.35549,
+Central African Republic,CAF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,66.78953,,50.71271,
+Chad,TCD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,51.5676803588867,,,
+Chad,TCD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,25.65421,,,26.00299
+Chad,TCD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,12.79642,,,13.93341
+Chad,TCD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,40.82706,,,38.9182
+Channel Islands,CHI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Channel Islands,CHI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Channel Islands,CHI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Channel Islands,CHI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Chile,CHL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,95.0516662597656,94.3637466430664
+Chile,CHL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Chile,CHL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Chile,CHL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+China,CHN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+China,CHN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,90.92021,,95.12448,
+China,CHN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,86.5266,,92.71123,
+China,CHN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,95.13525,,97.47946,
+Colombia,COL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.5376510620117,97.4555892944335,97.2210693359375,93.1681900024414
+Colombia,COL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,92.84866,93.37233,94.24505
+Colombia,COL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,92.91125,93.48679,94.41582
+Colombia,COL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,92.77795,93.25019,94.06317
+Comoros,COM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,66.8552169799805,,,
+Comoros,COM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,68.48923,,,
+Comoros,COM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,63.45902,,,
+Comoros,COM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,74.51404,,,
+"Congo, Dem. Rep.",COD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+"Congo, Dem. Rep.",COD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Congo, Dem. Rep.",COD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Congo, Dem. Rep.",COD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Congo, Rep.",COG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,53.4156684875488,89.3315811157227,
+"Congo, Rep.",COG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Congo, Rep.",COG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Congo, Rep.",COG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Costa Rica,CRI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,96.6183471679688
+Costa Rica,CRI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,94.86819,,,
+Costa Rica,CRI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,95.08079,,,
+Costa Rica,CRI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,94.65018,,,
+Cote d'Ivoire,CIV,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,56.7892112731934,,,79.2544708251953
+Cote d'Ivoire,CIV,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,48.74076,,,
+Cote d'Ivoire,CIV,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,38.61451,,,
+Cote d'Ivoire,CIV,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,60.86066,,,
+Croatia,HRV,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,93.9080581665039,98.9043884277344,94.6010437011719,98.3650894165039
+Croatia,HRV,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Croatia,HRV,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Croatia,HRV,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Cuba,CUB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.2787704467773,94.9967727661133,99.786491394043,92.2526473999023
+Cuba,CUB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Cuba,CUB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Cuba,CUB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Curacao,CUW,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Curacao,CUW,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Curacao,CUW,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Curacao,CUW,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Cyprus,CYP,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.069969177246,99.6620407104492,99.2851028442383,97.8283386230469
+Cyprus,CYP,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Cyprus,CYP,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Cyprus,CYP,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Czech Republic,CZE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Czech Republic,CZE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Czech Republic,CZE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Czech Republic,CZE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Denmark,DNK,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.1049728393555,96.2336502075195,96.2930603027344,98.6671524047852
+Denmark,DNK,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Denmark,DNK,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Denmark,DNK,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Djibouti,DJI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,25.8925704956055,36.7196388244629,,57.3690605163574
+Djibouti,DJI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Djibouti,DJI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Djibouti,DJI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Dominica,DMA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.4133987426758,95.5358963012695,,
+Dominica,DMA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Dominica,DMA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Dominica,DMA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Dominican Republic,DOM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,84.8338928222656,84.1126098632813,92.1523208618164,88.7476272583008
+Dominican Republic,DOM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,89.53873,91.99121
+Dominican Republic,DOM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,89.6973,92.32106
+Dominican Republic,DOM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,89.37704,91.65071
+Ecuador,ECU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.9949722290039,99.3765411376953,96.7655563354492,97.9652862548828
+Ecuador,ECU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,91.85404,94.45566
+Ecuador,ECU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,90.47011,93.25662
+Ecuador,ECU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,93.31687,95.72622
+"Egypt, Arab Rep.",EGY,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,88.395393371582,96.837028503418,99.074363708496,
+"Egypt, Arab Rep.",EGY,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,71.40886,72.04785,
+"Egypt, Arab Rep.",EGY,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,30.79796,63.51581,
+"Egypt, Arab Rep.",EGY,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,83.01752,80.26865,
+El Salvador,SLV,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,92.4210891723633,96.5606231689453,96.1280212402344,92.1209030151367
+El Salvador,SLV,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,84.49272,87.96985
+El Salvador,SLV,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,82.30802,86.2171
+El Salvador,SLV,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,87.0997,90.00994
+Equatorial Guinea,GNQ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,66.6094818115234,,52.9906997680664,56.7971000671387
+Equatorial Guinea,GNQ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,88.3083,,,
+Equatorial Guinea,GNQ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,81.623,,,
+Equatorial Guinea,GNQ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,94.84261,,,
+Eritrea,ERI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,36.2617797851563,52.5422897338867,38.286548614502,39.1359710693359
+Eritrea,ERI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Eritrea,ERI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Eritrea,ERI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Estonia,EST,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.9567489624023,96.1147537231445,99.0993270874023,94.9418334960938
+Estonia,EST,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,99.7672,,,
+Estonia,EST,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,99.76006,,,
+Estonia,EST,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.77595,,,
+Ethiopia,ETH,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,40.1560401916504,61.2172317504883,74.4483413696289,86.1690826416016
+Ethiopia,ETH,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,29.82034,,
+Ethiopia,ETH,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,17.9772,,
+Ethiopia,ETH,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,41.93662,,
+Faroe Islands,FRO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Faroe Islands,FRO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Faroe Islands,FRO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Faroe Islands,FRO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Fiji,FJI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.8633270263672,,,98.0284423828125
+Fiji,FJI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Fiji,FJI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Fiji,FJI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Finland,FIN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.7310104370117,97.4883575439453,97.9589462280273,99.6449966430664
+Finland,FIN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Finland,FIN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Finland,FIN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+France,FRA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.5732116699219,99.2911834716797,99.2565994262695,
+France,FRA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+France,FRA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+France,FRA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+French Polynesia,PYF,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+French Polynesia,PYF,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+French Polynesia,PYF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+French Polynesia,PYF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Gabon,GAB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Gabon,GAB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Gabon,GAB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Gabon,GAB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Gambia, The",GMB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,72.7627029418945,72.7384796142578,70.5251235961914,74.0793762207031
+"Gambia, The",GMB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,36.81773,,,
+"Gambia, The",GMB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,25.06155,,,
+"Gambia, The",GMB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,48.98115,,,
+Georgia,GEO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,90.876121520996,,
+Georgia,GEO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Georgia,GEO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Georgia,GEO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Germany,DEU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.8758087158203,99.7500076293945,99.6122665405273,99.7974319458008
+Germany,DEU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Germany,DEU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Germany,DEU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Ghana,GHA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,65.631591796875,66.5083465576172,,90.885887145996
+Ghana,GHA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,57.89747,,71.49707,
+Ghana,GHA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,49.79196,,65.29469,
+Ghana,GHA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,66.35128,,78.34891,
+Gibraltar,GIB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Gibraltar,GIB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Gibraltar,GIB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Gibraltar,GIB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Greece,GRC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.0747680664063,97.1704711914063,98.5231094360352,
+Greece,GRC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,93.04431,,
+Greece,GRC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,90.76541,,
+Greece,GRC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,95.45006,,
+Greenland,GRL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Greenland,GRL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,100.0
+Greenland,GRL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,100.0
+Greenland,GRL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,100.0
+Grenada,GRD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,90.684226989746,,97.7573699951172
+Grenada,GRD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Grenada,GRD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Grenada,GRD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Guam,GUM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Guam,GUM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Guam,GUM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Guam,GUM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Guatemala,GTM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,85.0584869384766,93.6537475585938,98.6926498413085,88.0477600097656
+Guatemala,GTM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Guatemala,GTM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Guatemala,GTM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Guinea,GIN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,44.9769401550292,64.4574432373047,70.5466613769531,
+Guinea,GIN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,25.30774,
+Guinea,GIN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,12.19195,
+Guinea,GIN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,36.78979,
+Guinea-Bissau,GNB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,46.7029685974121,,69.23095703125,
+Guinea-Bissau,GNB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,41.35777,,,
+Guinea-Bissau,GNB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,27.49421,,,
+Guinea-Bissau,GNB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,57.61375,,,
+Guyana,GUY,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,84.6697082519531,
+Guyana,GUY,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Guyana,GUY,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Guyana,GUY,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Haiti,HTI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Haiti,HTI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Haiti,HTI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Haiti,HTI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Honduras,HND,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,88.506706237793,91.2187805175781,96.0585708618164,93.5872421264648
+Honduras,HND,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,84.75536,87.90683
+Honduras,HND,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,84.72503,87.8937
+Honduras,HND,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,84.78901,87.92208
+"Hong Kong SAR, China",HKG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+"Hong Kong SAR, China",HKG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Hong Kong SAR, China",HKG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Hong Kong SAR, China",HKG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Hungary,HUN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.6038589477539,96.2855606079102,98.454963684082,95.7095336914063
+Hungary,HUN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Hungary,HUN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Hungary,HUN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Iceland,ISL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.164192199707,97.8940734863281,98.6615905761719,
+Iceland,ISL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Iceland,ISL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Iceland,ISL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+India,IND,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,84.1365432739258,,96.1928100585938,
+India,IND,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+India,IND,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+India,IND,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Indonesia,IDN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,93.1107025146484,96.8136520385742,90.5746612548828
+Indonesia,IDN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,95.21793
+Indonesia,IDN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,93.33571
+Indonesia,IDN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,97.10652
+"Iran, Islamic Rep.",IRN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,85.2519073486328,96.1834182739258,99.6831207275391,99.2453231811523
+"Iran, Islamic Rep.",IRN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,82.4412,,
+"Iran, Islamic Rep.",IRN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,76.80264,,
+"Iran, Islamic Rep.",IRN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,88.01032,,
+Iraq,IRQ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,88.4190826416016,,,
+Iraq,IRQ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,74.0522,,,
+Iraq,IRQ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,64.1695,,,
+Iraq,IRQ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,84.08741,,,
+Ireland,IRL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.7543869018555,99.8748474121094,99.6659698486328,99.2007522583008
+Ireland,IRL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Ireland,IRL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Ireland,IRL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Isle of Man,IMN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Isle of Man,IMN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Isle of Man,IMN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Isle of Man,IMN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Israel,ISR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.8463668823242,97.5390319824219,97.3854675292969,97.5569229125977
+Israel,ISR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Israel,ISR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Israel,ISR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Italy,ITA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.7511672973633,99.3017501831055,99.2549285888672,98.9025192260742
+Italy,ITA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Italy,ITA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Italy,ITA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Jamaica,JAM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,93.5644989013672,,,
+Jamaica,JAM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Jamaica,JAM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Jamaica,JAM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Japan,JPN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.9702072143555,99.9993515014648,99.9435119628906,
+Japan,JPN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Japan,JPN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Japan,JPN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Jordan,JOR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.9402008056641,98.9109802246094,89.7488784790039,
+Jordan,JOR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,91.13075,92.55104,
+Jordan,JOR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,87.00581,89.20774,
+Jordan,JOR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,95.17645,95.76724,
+Kazakhstan,KAZ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.1336517333984,98.7241668701172,99.652587890625,99.8704528808594
+Kazakhstan,KAZ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,99.78163,
+Kazakhstan,KAZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,99.73899,
+Kazakhstan,KAZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,99.82968,
+Kenya,KEN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,66.0325393676758,76.0977325439453,,
+Kenya,KEN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,82.22908,,,
+Kenya,KEN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,77.89298,,,
+Kenya,KEN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,87.49466,,,
+Kiribati,KIR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,96.8826599121094
+Kiribati,KIR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Kiribati,KIR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Kiribati,KIR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Korea, Dem. People’s Rep.",PRK,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,96.4502487182617
+"Korea, Dem. People’s Rep.",PRK,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Korea, Dem. People’s Rep.",PRK,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Korea, Dem. People’s Rep.",PRK,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Korea, Rep.",KOR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.750602722168,,98.9409103393555,98.7600631713867
+"Korea, Rep.",KOR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Korea, Rep.",KOR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Korea, Rep.",KOR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Kosovo,XKX,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Kosovo,XKX,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Kosovo,XKX,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Kosovo,XKX,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Kuwait,KWT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.0510635375977,96.0896072387695,97.4856262207031,
+Kuwait,KWT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,93.27446,94.46901,95.68545
+Kuwait,KWT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,91.0425,92.68094,94.47005
+Kuwait,KWT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,94.44604,95.54531,96.39225
+Kyrgyz Republic,KGZ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,92.4056167602539,94.4707183837891,93.7540435791016,97.9330825805664
+Kyrgyz Republic,KGZ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Kyrgyz Republic,KGZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Kyrgyz Republic,KGZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Lao PDR,LAO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,75.6953811645508,80.6172866821289,94.1474075317383,92.7118911743164
+Lao PDR,LAO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,69.58312,72.70226,,
+Lao PDR,LAO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,58.4607,63.22699,,
+Lao PDR,LAO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,81.36018,82.45175,,
+Latvia,LVA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,98.1457901000977,96.7509765625
+Latvia,LVA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,99.74657,,,
+Latvia,LVA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,99.70973,,,
+Latvia,LVA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.79334,,,
+Lebanon,LBN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,91.6793365478516,93.3599014282227,83.5174331665039
+Lebanon,LBN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Lebanon,LBN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Lebanon,LBN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Lesotho,LSO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,80.4165420532227,77.5157623291016,79.0310287475585,80.7348937988281
+Lesotho,LSO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,86.25443,,,
+Lesotho,LSO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,92.04645,,,
+Lesotho,LSO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,79.99578,,,
+Liberia,LBR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,37.6139297485352
+Liberia,LBR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Liberia,LBR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Liberia,LBR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Libya,LBY,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Libya,LBY,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Libya,LBY,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Libya,LBY,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Liechtenstein,LIE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,99.1849212646484,99.8076705932617
+Liechtenstein,LIE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Liechtenstein,LIE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Liechtenstein,LIE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Lithuania,LTU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.8814010620117,91.0606994628906,99.3075866699219,99.390998840332
+Lithuania,LTU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Lithuania,LTU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Lithuania,LTU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Luxembourg,LUX,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.0999298095703,97.7544937133789,95.2893524169922,
+Luxembourg,LUX,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Luxembourg,LUX,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Luxembourg,LUX,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Macao SAR, China",MAC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,85.7432327270508,89.4779510498047,83.3314666748047,95.2107009887695
+"Macao SAR, China",MAC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Macao SAR, China",MAC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Macao SAR, China",MAC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Macedonia, FYR",MKD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.375877380371,93.6154937744141,93.3574523925781,91.0573577880859
+"Macedonia, FYR",MKD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Macedonia, FYR",MKD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Macedonia, FYR",MKD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Madagascar,MDG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,65.1805877685547,,,
+Madagascar,MDG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,70.68617,,,
+Madagascar,MDG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,65.27857,,,
+Madagascar,MDG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,76.53832,,,
+Malawi,MWI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,98.2278594970703,,
+Malawi,MWI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,61.30972,62.14354
+Malawi,MWI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,51.25197,55.20411
+Malawi,MWI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,72.09765,69.75397
+Malaysia,MYS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.8139877319335,99.9383010864258,96.5733032226563,98.091682434082
+Malaysia,MYS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,88.68776,,93.11789,
+Malaysia,MYS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,85.35422,,90.74768,
+Malaysia,MYS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,91.96924,,95.43375,
+Maldives,MDV,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.1532669067383,98.1989822387695,,
+Maldives,MDV,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Maldives,MDV,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Maldives,MDV,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Mali,MLI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,56.1136016845703,67.9494018554688,60.7258491516113
+Mali,MLI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,31.09975,33.06889
+Mali,MLI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,20.28793,22.19581
+Mali,MLI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,43.40063,45.06592
+Malta,MLT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,98.4868392944335
+Malta,MLT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,92.36309,,
+Malta,MLT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,93.50425,,
+Malta,MLT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,91.18658,,
+Marshall Islands,MHL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,78.4077987670898
+Marshall Islands,MHL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Marshall Islands,MHL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Marshall Islands,MHL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Mauritania,MRT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,59.8535499572754,70.6530075073242,70.2421798706055,79.9006195068359
+Mauritania,MRT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,51.20768,,,
+Mauritania,MRT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,43.41736,,,
+Mauritania,MRT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,59.54033,,,
+Mauritius,MUS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,93.2265930175781,96.0208892822266,96.508689880371,96.2853393554688
+Mauritius,MUS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,84.30309,,,92.7076
+Mauritius,MUS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,80.50003,,,90.65402
+Mauritius,MUS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,88.22786,,,94.86117
+Mexico,MEX,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.5814819335938,96.1249465942383,96.2654571533203,
+Mexico,MEX,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,90.53562,91.63027,93.06894,94.47228
+Mexico,MEX,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,88.68204,90.21041,91.85342,93.4855
+Mexico,MEX,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,92.55937,93.19041,94.38394,95.54933
+"Micronesia, Fed. Sts.",FSM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,84.0033264160156
+"Micronesia, Fed. Sts.",FSM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Micronesia, Fed. Sts.",FSM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Micronesia, Fed. Sts.",FSM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Moldova,MDA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,92.5607376098633,93.3720016479492,90.1051406860352,89.9499664306641
+Moldova,MDA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,96.6538,,,
+Moldova,MDA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,95.4923,,,
+Moldova,MDA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,97.97762,,,
+Monaco,MCO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Monaco,MCO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Monaco,MCO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Monaco,MCO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Mongolia,MNG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,92.8608474731445,92.4327011108398,97.6429290771484,97.3117599487305
+Mongolia,MNG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,97.76885,,98.257,
+Mongolia,MNG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,97.5288,,98.33663,
+Mongolia,MNG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,98.01678,,98.1747,
+Montenegro,MNE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,97.9165496826172,,93.6869583129883
+Montenegro,MNE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Montenegro,MNE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Montenegro,MNE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Morocco,MAR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,75.9322814941406,86.2399826049805,94.917381286621,
+Morocco,MAR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Morocco,MAR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Morocco,MAR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Mozambique,MOZ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,55.1837196350098,72.1879577636719,87.051887512207,89.1328125
+Mozambique,MOZ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Mozambique,MOZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Mozambique,MOZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Myanmar,MMR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,89.9173965454102,88.9581909179688,87.7473373413085,
+Myanmar,MMR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,89.94176,,,
+Myanmar,MMR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,86.41518,,,
+Myanmar,MMR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,93.92426,,,
+Namibia,NAM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,89.2378616333008,88.2671508789063,86.7711715698242,
+Namibia,NAM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Namibia,NAM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Namibia,NAM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Nauru,NRU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Nauru,NRU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Nauru,NRU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Nauru,NRU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Nepal,NPL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,72.6118698120117,,,97.1265487670898
+Nepal,NPL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Nepal,NPL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Nepal,NPL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Netherlands,NLD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.5035171508789,98.3895034790039,99.8847503662109,98.6431427001953
+Netherlands,NLD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Netherlands,NLD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Netherlands,NLD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+New Caledonia,NCL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+New Caledonia,NCL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+New Caledonia,NCL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+New Caledonia,NCL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+New Zealand,NZL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.9087295532227,99.1018676757813,99.4692077636719,99.1453399658203
+New Zealand,NZL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+New Zealand,NZL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+New Zealand,NZL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Nicaragua,NIC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,85.9325408935547,99.3627319335938,98.410530090332,
+Nicaragua,NIC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,78.00298,,
+Nicaragua,NIC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,77.91604,,
+Nicaragua,NIC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,78.09643,,
+Niger,NER,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,27.3813896179199,41.8024101257324,55.7457084655762,63.2819213867188
+Niger,NER,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,28.67242,,
+Niger,NER,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,15.08414,,
+Niger,NER,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,42.92737,,
+Nigeria,NGA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,65.9570617675781,68.075080871582,65.6736526489258,
+Nigeria,NGA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Nigeria,NGA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Nigeria,NGA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Northern Mariana Islands,MNP,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Northern Mariana Islands,MNP,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Northern Mariana Islands,MNP,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Northern Mariana Islands,MNP,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Norway,NOR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.7189865112305,98.5824737548828,99.007713317871,99.7845764160156
+Norway,NOR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Norway,NOR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Norway,NOR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Oman,OMN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,84.7496337890625,,,98.042869567871
+Oman,OMN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,86.939,93.03861
+Oman,OMN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,81.80323,86.03721
+Oman,OMN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,90.24303,96.63287
+Pakistan,PAK,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,68.7413330078125,74.6779632568359,73.8453216552734
+Pakistan,PAK,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,49.87364,55.37519,
+Pakistan,PAK,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,35.36752,41.01553,
+Pakistan,PAK,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,64.06048,68.90061,
+Palau,PLW,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Palau,PLW,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,96.59374
+Palau,PLW,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,96.34015
+Palau,PLW,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,96.81275
+Panama,PAN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.2319107055664,98.2288589477539,97.9906005859375,
+Panama,PAN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,91.89962,,94.09412,
+Panama,PAN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,91.24718,,93.48526,
+Panama,PAN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,92.54793,,94.70741,
+Papua New Guinea,PNG,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Papua New Guinea,PNG,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,57.34326,,,
+Papua New Guinea,PNG,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,50.91774,,,
+Papua New Guinea,PNG,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,63.44522,,,
+Paraguay,PRY,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.8622283935547,95.4290466308594,89.6587982177734,
+Paraguay,PRY,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,93.87092,95.0727
+Paraguay,PRY,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,92.92574,94.34246
+Paraguay,PRY,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,94.81315,95.84588
+Peru,PER,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.9532775878906,98.9429092407227,98.877586364746,97.8900527954102
+Peru,PER,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,87.90867,,94.16234
+Peru,PER,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,82.45437,,91.24653
+Peru,PER,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,93.71831,,97.10638
+Philippines,PHL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,88.9954833984375,,
+Philippines,PHL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,92.60006,,,
+Philippines,PHL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,92.65491,,,
+Philippines,PHL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,92.545,,,
+Poland,POL,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.9779891967773,94.9032897949219,96.7667388916016,
+Poland,POL,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Poland,POL,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Poland,POL,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Portugal,PRT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,99.4780883789063,97.9703979492188
+Portugal,PRT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Portugal,PRT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Portugal,PRT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Puerto Rico,PRI,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,87.571907043457,
+Puerto Rico,PRI,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,91.96523,
+Puerto Rico,PRI,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,92.53015,
+Puerto Rico,PRI,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,91.33078,
+Qatar,QAT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.1877517700195,99.2866973876953,95.4177398681641,96.5736923217773
+Qatar,QAT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,96.28374,
+Qatar,QAT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,95.40186,
+Qatar,QAT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,96.51166,
+Romania,ROU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,92.3099822998047,97.7737274169922,93.5558166503906,90.1396484375
+Romania,ROU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Romania,ROU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Romania,ROU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Russian Federation,RUS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,97.4988021850585
+Russian Federation,RUS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,99.68427,
+Russian Federation,RUS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,99.64778,
+Russian Federation,RUS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,99.72831,
+Rwanda,RWA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,98.5069885253906,95.0956497192383
+Rwanda,RWA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,64.8886,,65.85227,
+Rwanda,RWA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,59.75034,,61.54861,
+Rwanda,RWA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,71.41938,,71.13054,
+Samoa,WSM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,91.5099487304688,,96.7654113769531,97.3556518554688
+Samoa,WSM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Samoa,WSM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Samoa,WSM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+San Marino,SMR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,94.1408309936523,
+San Marino,SMR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+San Marino,SMR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+San Marino,SMR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Sao Tome and Principe,STP,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,98.9455108642578,94.8981094360352,95.699821472168
+Sao Tome and Principe,STP,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Sao Tome and Principe,STP,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Sao Tome and Principe,STP,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Saudi Arabia,SAU,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,90.3468322753906,97.690330505371
+Saudi Arabia,SAU,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,79.35094,,,
+Saudi Arabia,SAU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,69.29119,,,
+Saudi Arabia,SAU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,87.06077,,,
+Senegal,SEN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,57.827709197998,63.7599182128906,70.2179489135742,72.9911422729492
+Senegal,SEN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Senegal,SEN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Senegal,SEN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Serbia,SRB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,99.7035903930664,94.5363693237305,99.2062301635742
+Serbia,SRB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Serbia,SRB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Serbia,SRB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Seychelles,SYC,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,93.1470794677734,95.5060501098633,,95.4750137329102
+Seychelles,SYC,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,93.95423,
+Seychelles,SYC,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,94.44898,
+Seychelles,SYC,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,93.46392,
+Sierra Leone,SLE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,99.3764114379883
+Sierra Leone,SLE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Sierra Leone,SLE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Sierra Leone,SLE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Singapore,SGP,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Singapore,SGP,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,92.5494,,95.85733,96.82549
+Singapore,SGP,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,88.64518,,93.77481,95.19065
+Singapore,SGP,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,96.5651,,98.03714,98.55957
+Sint Maarten (Dutch part),SXM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Sint Maarten (Dutch part),SXM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Sint Maarten (Dutch part),SXM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Sint Maarten (Dutch part),SXM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Slovak Republic,SVK,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Slovak Republic,SVK,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Slovak Republic,SVK,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Slovak Republic,SVK,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Slovenia,SVN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.5391693115234,98.6626815795898,97.3347320556641,
+Slovenia,SVN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Slovenia,SVN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Slovenia,SVN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Solomon Islands,SLB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,75.5612487792969,,70.5470581054688
+Solomon Islands,SLB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Solomon Islands,SLB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Solomon Islands,SLB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Somalia,SOM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Somalia,SOM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Somalia,SOM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Somalia,SOM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+South Africa,ZAF,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,91.9988784790039,88.2970123291016,,
+South Africa,ZAF,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,92.87732,94.36792
+South Africa,ZAF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,91.71399,93.40803
+South Africa,ZAF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,94.14385,95.39653
+South Sudan,SSD,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,30.9766006469727
+South Sudan,SSD,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+South Sudan,SSD,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+South Sudan,SSD,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Spain,ESP,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.8215713500977,99.6923980712891,99.6082382202148,99.4968795776367
+Spain,ESP,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,97.75069,97.7489,98.14326
+Spain,ESP,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,96.92515,97.0045,97.54713
+Spain,ESP,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,98.61747,98.52571,98.77089
+Sri Lanka,LKA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,97.2529067993164,95.0441513061523,99.0812683105469
+Sri Lanka,LKA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,91.18136,
+Sri Lanka,LKA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,89.95868,
+Sri Lanka,LKA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,92.57847,
+St. Kitts and Nevis,KNA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.2177429199219,95.6290969848633,86.0131530761719,80.392448425293
+St. Kitts and Nevis,KNA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+St. Kitts and Nevis,KNA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+St. Kitts and Nevis,KNA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+St. Lucia,LCA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,90.6404266357422,92.7846832275391,,
+St. Lucia,LCA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+St. Lucia,LCA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+St. Lucia,LCA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+St. Martin (French part),MAF,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+St. Martin (French part),MAF,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+St. Martin (French part),MAF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+St. Martin (French part),MAF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+St. Vincent and the Grenadines,VCT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.1995010375977,98.2729034423828,98.48876953125,98.7279586791992
+St. Vincent and the Grenadines,VCT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+St. Vincent and the Grenadines,VCT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+St. Vincent and the Grenadines,VCT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Sudan,SDN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Sudan,SDN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,61.34587,,,
+Sudan,SDN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,52.1464,,,
+Sudan,SDN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,71.58102,,,
+Suriname,SUR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,88.3925704956055,93.2919464111328,94.6637802124023
+Suriname,SUR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,94.67575,
+Suriname,SUR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,94.00354,
+Suriname,SUR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,95.36479,
+Swaziland,SWZ,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,81.440803527832,
+Swaziland,SWZ,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,81.6607,,83.09829,
+Swaziland,SWZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,80.32875,,82.44755,
+Swaziland,SWZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,83.15462,,83.90015,
+Sweden,SWE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.4255065917969,95.4585037231445,99.3796691894531,99.6285705566406
+Sweden,SWE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Sweden,SWE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Sweden,SWE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Switzerland,CHE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.2972412109375,98.0722732543945,99.1101913452148,99.6236267089844
+Switzerland,CHE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Switzerland,CHE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Switzerland,CHE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Syrian Arab Republic,SYR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,96.8621215820313,99.2025833129883,,
+Syrian Arab Republic,SYR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Syrian Arab Republic,SYR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Syrian Arab Republic,SYR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Tajikistan,TJK,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,94.4541015625,97.4397811889648,98.1088027954102,98.1128463745117
+Tajikistan,TJK,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,99.45068,,,
+Tajikistan,TJK,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,99.22123,,,
+Tajikistan,TJK,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.68399,,,
+Tanzania,TZA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,52.8379402160645,89.40869140625,89.1167984008789,
+Tanzania,TZA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,67.8007,77.88723
+Tanzania,TZA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,60.75262,73.09383
+Tanzania,TZA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,75.4678,83.20485
+Thailand,THA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,90.8125076293945
+Thailand,THA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,92.64654,93.50647,96.43091,92.86831
+Thailand,THA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,90.51602,91.52957,96.42705,91.19193
+Thailand,THA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,94.90157,95.60024,96.43502,94.65912
+Timor-Leste,TLS,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,96.3403625488281,97.0163116455078
+Timor-Leste,TLS,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,58.30898,
+Timor-Leste,TLS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,52.959,
+Timor-Leste,TLS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,63.59179,
+Togo,TGO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,85.0263595581055,90.8877334594727,,97.4581298828125
+Togo,TGO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,53.1776,,,63.74562
+Togo,TGO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,38.45329,,,51.24178
+Togo,TGO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,68.72574,,,77.25943
+Tonga,TON,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,98.8295593261719,,
+Tonga,TON,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Tonga,TON,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Tonga,TON,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Trinidad and Tobago,TTO,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,98.3050384521484,93.6748580932617,98.733512878418,
+Trinidad and Tobago,TTO,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Trinidad and Tobago,TTO,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Trinidad and Tobago,TTO,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Tunisia,TUN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.438133239746,98.8697204589844,99.6318283081055,
+Tunisia,TUN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,79.13058,
+Tunisia,TUN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,71.08821,
+Tunisia,TUN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,87.37573,
+Turkey,TUR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,95.8353576660156,97.7891387939453,96.3258666992188,94.2412414550781
+Turkey,TUR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,88.22906,92.6606,95.60142
+Turkey,TUR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,80.54895,88.07317,92.64581
+Turkey,TUR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,96.00062,97.29981,98.57562
+Turkmenistan,TKM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Turkmenistan,TKM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Turkmenistan,TKM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Turkmenistan,TKM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Turks and Caicos Islands,TCA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Turks and Caicos Islands,TCA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Turks and Caicos Islands,TCA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Turks and Caicos Islands,TCA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Tuvalu,TUV,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,98.3286895751953
+Tuvalu,TUV,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Tuvalu,TUV,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Tuvalu,TUV,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Uganda,UGA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,90.3226928710938,
+Uganda,UGA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,73.21188,
+Uganda,UGA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,64.59145,
+Uganda,UGA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,82.63139,
+Ukraine,UKR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,89.5112228393555,94.4123306274414,
+Ukraine,UKR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Ukraine,UKR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Ukraine,UKR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+United Arab Emirates,ARE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,81.4572830200195,96.23388671875,93.2341613769531,95.9560775756835
+United Arab Emirates,ARE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,90.03385,,
+United Arab Emirates,ARE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,91.47475,,
+United Arab Emirates,ARE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,89.4821,,
+United Kingdom,GBR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.9523468017578,99.9943923950195,99.422996520996,
+United Kingdom,GBR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+United Kingdom,GBR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+United Kingdom,GBR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+United States,USA,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.6168670654297,95.2743301391602,94.7958221435547,94.4560470581055
+United States,USA,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+United States,USA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+United States,USA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Uruguay,URY,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,97.5637893676758,99.842399597168,
+Uruguay,URY,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,98.07271,98.52387
+Uruguay,URY,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,98.49095,98.86746
+Uruguay,URY,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,97.61017,98.14592
+Uzbekistan,UZB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,94.6520614624023,96.7525787353516
+Uzbekistan,UZB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,98.64258,,,99.98383
+Uzbekistan,UZB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,98.13858,,,99.97577
+Uzbekistan,UZB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.16444,,,99.99204
+Vanuatu,VUT,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,99.3187637329102,99.1522979736328,,86.6986465454102
+Vanuatu,VUT,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Vanuatu,VUT,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Vanuatu,VUT,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+"Venezuela, RB",VEN,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,87.4783325195313,90.973777770996,93.8645629882813,92.3869781494141
+"Venezuela, RB",VEN,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,96.60522
+"Venezuela, RB",VEN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,96.56007
+"Venezuela, RB",VEN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,96.65108
+Vietnam,VNM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,97.3607177734375,90.2243423461914,98.1388092041016,
+Vietnam,VNM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,90.15613,,,
+Vietnam,VNM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,86.61011,,,
+Vietnam,VNM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,93.93268,,,
+Virgin Islands (U.S.),VIR,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,,,
+Virgin Islands (U.S.),VIR,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Virgin Islands (U.S.),VIR,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Virgin Islands (U.S.),VIR,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+West Bank and Gaza,PSE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,90.900047302246,83.6354904174805,89.0168685913085,92.2536773681641
+West Bank and Gaza,PSE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,94.93201,96.69073
+West Bank and Gaza,PSE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,92.1728,94.85377
+West Bank and Gaza,PSE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,97.62902,98.4809
+"Yemen, Rep.",YEM,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,,75.8423233032227,81.3428573608398,
+"Yemen, Rep.",YEM,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+"Yemen, Rep.",YEM,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+"Yemen, Rep.",YEM,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
+Zambia,ZMB,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,64.9517135620117,89.7433929443359,86.5126724243164,
+Zambia,ZMB,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,83.00767,
+Zambia,ZMB,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,77.74664,
+Zambia,ZMB,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,88.68403,
+Zimbabwe,ZWE,"Adjusted net enrolment rate, primary, both sexes (%)",SE.PRM.TENR,84.5295104980469,,,
+Zimbabwe,ZWE,"Adult literacy rate, population 15+ years, both sexes (%)",SE.ADT.LITR.ZS,,,,
+Zimbabwe,ZWE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,,,,
+Zimbabwe,ZWE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,,,,
