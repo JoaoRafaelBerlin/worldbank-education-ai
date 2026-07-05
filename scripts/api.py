@@ -89,5 +89,32 @@ def insights(indicador: str):
         "indicador": indicador,
         "ranking": top10.to_dict(orient="records"),
         "insights": analise
+
+        @app.get("/countries")
+def countries():
+
+    paises = (
+        df["Country Name"]
+        .dropna()
+        .sort_values()
+        .unique()
+        .tolist()
+    )
+
+    return paises
+    
+    @app.get("/indicators")
+def indicators():
+
+    indicadores = (
+        df["Indicator Name"]
+        .dropna()
+        .sort_values()
+        .unique()
+        .tolist()
+    )
+
+    return indicadores
+    
     }
     
